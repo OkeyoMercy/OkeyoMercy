@@ -1,6 +1,6 @@
 Hi there, I'm MERCY ACHIENG'! 👋
 🌱 I'm a  Computer Science Student who is Passionate About Data Science and Machine Learning
-Welcome to my GitHub page! I'm Okeyo Mercy, currently in my third year of studying Computer Science at Maseno University. I have a passion for all things data science and machine learning, and I love using Python to solve problems and create innovative projects.
+Welcome to my GitHub page! I'm  currently in my third year of studying Computer Science at Maseno University. I have a passion for all things data science and machine learning, and I love using Python to solve problems and create innovative projects.
 
 About Me:
 
