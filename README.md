@@ -1,7 +1,5 @@
-# Hi, I'm Mercy Achieng 👋
-
+# Hi, I'm Mercy Achieng' 👋
 ### Computer Science | Software Development | AI & Data Science
-
 Welcome to my GitHub! I'm passionate about building technology-driven solutions, exploring intelligent systems and using programming to solve real-world problems.
 
 ### 👩‍💻 About Me
