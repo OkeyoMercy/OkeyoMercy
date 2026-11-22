@@ -32,6 +32,5 @@ Welcome to my GitHub! I'm passionate about building technology-driven solutions,
 
 - Email: achieng24mercy@gmail.com
 - GitHub: [OkeyoMercy](https://github.com/OkeyoMercy)
-- LinkedIn: [Add your LinkedIn profile]
-
+- LinkedIn: (https://www.linkedin.com/in/mercy-achieng-283294255/)
 *Always learning, building and exploring new possibilities through technology.*
